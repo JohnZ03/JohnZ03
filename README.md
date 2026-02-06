@@ -2,7 +2,7 @@
 
 ![Top Langs](https://github-readme-stats-ten-black-56.vercel.app/api/top-langs/?username=JohnZ03&theme=tokyonight)
 
-![Harlok's WakaTime stats](https://github-readme-stats-ten-black-56.vercel.app/api/wakatime?username=JohnZ03&theme=tokyonight)
+![Harlok's WakaTime stats](https://github-readme-stats-ten-black-56.vercel.app/api/wakatime?username=JohnZ03&theme=tokyonight&langs_count=5)
 
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnZ03&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
